@@ -10,3 +10,4 @@ nbactions-jenkins.xml
 /.idea
 /schedule-build.iml
 /nbproject/
+/.vscode

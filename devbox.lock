@@ -2,8 +2,8 @@
   "lockfile_version": "1",
   "packages": {
     "maven@3.9.6": {
-      "last_modified": "2024-05-22T06:18:38Z",
-      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#maven",
+      "last_modified": "2024-06-12T20:55:33Z",
+      "resolved": "github:NixOS/nixpkgs/a9858885e197f984d92d7fe64e9fff6b2e488d40#maven",
       "source": "devbox-search",
       "version": "3.9.6",
       "systems": {
@@ -11,47 +11,47 @@
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/zfqhk8xddn9z9dfhqxpazwfbg6ax0hxc-apache-maven-3.9.6",
+              "path": "/nix/store/anjg4vldn49by6biv5xnhqq1mg34pbf2-apache-maven-3.9.6",
               "default": true
             }
           ],
-          "store_path": "/nix/store/zfqhk8xddn9z9dfhqxpazwfbg6ax0hxc-apache-maven-3.9.6"
+          "store_path": "/nix/store/anjg4vldn49by6biv5xnhqq1mg34pbf2-apache-maven-3.9.6"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/ls3qifb5kd5b78jrlkqqxx3f9nkhribb-apache-maven-3.9.6",
+              "path": "/nix/store/x0b2lf5938xbqkmyy0dy3m5scbzhn758-apache-maven-3.9.6",
               "default": true
             }
           ],
-          "store_path": "/nix/store/ls3qifb5kd5b78jrlkqqxx3f9nkhribb-apache-maven-3.9.6"
+          "store_path": "/nix/store/x0b2lf5938xbqkmyy0dy3m5scbzhn758-apache-maven-3.9.6"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/2qc130a8y729r76izbwagxwjgdlfc9yw-apache-maven-3.9.6",
+              "path": "/nix/store/w6crqg0hzr9ywg4nfkiqhkfy9rscq5pz-apache-maven-3.9.6",
               "default": true
             }
           ],
-          "store_path": "/nix/store/2qc130a8y729r76izbwagxwjgdlfc9yw-apache-maven-3.9.6"
+          "store_path": "/nix/store/w6crqg0hzr9ywg4nfkiqhkfy9rscq5pz-apache-maven-3.9.6"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/z22jfrphjm815sgrc13g23icxwr4zh89-apache-maven-3.9.6",
+              "path": "/nix/store/21kyz6bqsr97gjd3lc8g600zc1cksd1d-apache-maven-3.9.6",
               "default": true
             }
           ],
-          "store_path": "/nix/store/z22jfrphjm815sgrc13g23icxwr4zh89-apache-maven-3.9.6"
+          "store_path": "/nix/store/21kyz6bqsr97gjd3lc8g600zc1cksd1d-apache-maven-3.9.6"
         }
       }
     },
     "temurin-bin@21.0.1": {
-      "last_modified": "2024-05-22T06:18:38Z",
-      "resolved": "github:NixOS/nixpkgs/3f316d2a50699a78afe5e77ca486ad553169061e#temurin-bin",
+      "last_modified": "2024-06-12T20:55:33Z",
+      "resolved": "github:NixOS/nixpkgs/a9858885e197f984d92d7fe64e9fff6b2e488d40#temurin-bin",
       "source": "devbox-search",
       "version": "21.0.1",
       "systems": {
@@ -59,41 +59,41 @@
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/r2986dyv67zxw68lys1j7had34i4xsnb-temurin-bin-21.0.1",
+              "path": "/nix/store/kx7xaz7kcz1rygshs1ngcgsjg65kcyzm-temurin-bin-21.0.1",
               "default": true
             }
           ],
-          "store_path": "/nix/store/r2986dyv67zxw68lys1j7had34i4xsnb-temurin-bin-21.0.1"
+          "store_path": "/nix/store/kx7xaz7kcz1rygshs1ngcgsjg65kcyzm-temurin-bin-21.0.1"
         },
         "aarch64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/c96sbqwscb8j0l8si3s32apdf8bah50h-temurin-bin-21.0.1",
+              "path": "/nix/store/brh8hhgc99b8icif8y1vf53xpirvabis-temurin-bin-21.0.1",
               "default": true
             }
           ],
-          "store_path": "/nix/store/c96sbqwscb8j0l8si3s32apdf8bah50h-temurin-bin-21.0.1"
+          "store_path": "/nix/store/brh8hhgc99b8icif8y1vf53xpirvabis-temurin-bin-21.0.1"
         },
         "x86_64-darwin": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/16p3cszsm3rfwjls416kad4dy50rzd92-temurin-bin-21.0.1",
+              "path": "/nix/store/qv3jkyhgna9y9fav4cv000nskch1lyzd-temurin-bin-21.0.1",
               "default": true
             }
           ],
-          "store_path": "/nix/store/16p3cszsm3rfwjls416kad4dy50rzd92-temurin-bin-21.0.1"
+          "store_path": "/nix/store/qv3jkyhgna9y9fav4cv000nskch1lyzd-temurin-bin-21.0.1"
         },
         "x86_64-linux": {
           "outputs": [
             {
               "name": "out",
-              "path": "/nix/store/z9v428pz7sjkagpj1zvcqkdp9pcrlq98-temurin-bin-21.0.1",
+              "path": "/nix/store/r62kd5ndkydfc3jmpzfqd105zwibd7n4-temurin-bin-21.0.1",
               "default": true
             }
           ],
-          "store_path": "/nix/store/z9v428pz7sjkagpj1zvcqkdp9pcrlq98-temurin-bin-21.0.1"
+          "store_path": "/nix/store/r62kd5ndkydfc3jmpzfqd105zwibd7n4-temurin-bin-21.0.1"
         }
       }
     }
